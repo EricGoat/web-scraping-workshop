@@ -1,6 +1,6 @@
-# web-scraping-workshop
+# Web Scraping Workshop
 
-Tech Knight Web Scraping Workshop
+Tech Knight Web Scraping Workshop  
 Feburary 14th, 2019
 
 `python3 weatherscrape.py <command>`
